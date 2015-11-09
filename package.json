@@ -1,0 +1,36 @@
+{
+  "name": "link-header",
+  "version": "1.0.0",
+  "description": "Generate a Link HTTP Header ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ramda": "^0.18.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidhuko/node-link-header.git"
+  },
+  "keywords": [
+    "link",
+    "http",
+    "header",
+    "paginate",
+    "pagination",
+    "restful"
+  ],
+  "author": "James Sidhu <james.thomas.sidhu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidhuko/node-link-header/issues"
+  },
+  "homepage": "https://github.com/sidhuko/node-link-header#readme"
+}
