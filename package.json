@@ -1,7 +1,7 @@
 {
   "name": "link-header",
-  "version": "1.0.0",
-  "description": "Generate a Link HTTP Header ",
+  "version": "0.0.1",
+  "description": "Generate a Link HTTP Header",
   "main": "index.js",
   "directories": {
     "test": "test"
